@@ -1,0 +1,7 @@
+:root{
+    --main-bg-color: #eff5fe;
+}
+body, html{
+    font-family: syste-ui;
+    background: var(--main-bg-color);
+}
